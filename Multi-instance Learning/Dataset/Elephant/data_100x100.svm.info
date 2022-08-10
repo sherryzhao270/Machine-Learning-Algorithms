@@ -1,0 +1,13 @@
+-----------------------
+---  MIL - STATS ------
+-----------------------
+ ============================================0
+reading : Elephant/data_100x100.svm
+------------ MILDataSet (verbosity = 0) ------------
+Features:  max index = 230   per bag = 143  
+Bags:         total = 200       pos = 100       neg = 100  +/- ratio = 1    
+Instances:    total = 1391      pos = 762       neg = 629  max |x|^2 = 5793.66
+         data_fname = Elephant/data_100x100.svm
+        model_fname = 
+-----------------------------------------------------
+ ============================================

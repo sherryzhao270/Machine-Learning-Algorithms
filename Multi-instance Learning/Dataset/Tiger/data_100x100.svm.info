@@ -1,0 +1,13 @@
+-----------------------
+---  MIL - STATS ------
+-----------------------
+ ============================================0
+reading : Tiger/data_100x100.svm
+------------ MILDataSet (verbosity = 0) ------------
+Features:  max index = 230   per bag = 143  
+Bags:         total = 200       pos = 100       neg = 100  +/- ratio = 1    
+Instances:    total = 1220      pos = 544       neg = 676  max |x|^2 = 13397.4
+         data_fname = Tiger/data_100x100.svm
+        model_fname = 
+-----------------------------------------------------
+ ============================================
